@@ -16,9 +16,9 @@ Even amidst the busiest projects, I’ll find your message and connect within a 
 
 ## **About Me 💻**  
 
-Name: Muhammed Irfan
+Name: Muhammed Irfan CPV 
 
-### **Education**  
+## **Education**  
 🎓 **Master's in Informatics**: Resilient and Secure Cyber-Physical Systems (*University of Florence, Italy*)  
 🎓 **Bachelor of Technology**: Computer Science and Engineering (*Calicut University, India*)  
 
@@ -36,7 +36,7 @@ Name: Muhammed Irfan
 ---
 
 ## **Special Focus 🔍**  
-- **Languages**: 🦀 Rust | 🐍 Python | ☕ Java  
+- **Languages**:  | 🐍 Python | ☕ Java  
 - **Frameworks**: Swing, Maven, Axum  
 - **Backend Development**: Secure and efficient data handling  
 - **Tools**: Docker, Git, Eclipse  
@@ -45,7 +45,7 @@ Name: Muhammed Irfan
 
 ## **Technologies & Tools 🔧**  
 **Favorite Tools**:  
-- Docker | Git | Swing | Maven | SQL | Grafana  
+- Docker | Git | Swing | Maven | SQL   
 **Current Stack Weapons**:  
 - Java 17 | Rust | Python | Kubernetes  
 
