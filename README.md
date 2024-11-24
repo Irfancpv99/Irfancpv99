@@ -19,17 +19,17 @@ Even amidst the busiest projects, I’ll find your message and connect within a 
 Name: Muhammed Irfan CPV 
 
 ## **Education**  
-🎓 **Master's in Informatics**: Resilient and Secure Cyber-Physical Systems (*University of Florence, Italy*)  
-🎓 **Bachelor of Technology**: Computer Science and Engineering (*Calicut University, India*)  
+🎓 **Master's in Informatics**: Resilient and Secure Cyber-Physical Systems   
+🎓 **Bachelor of Technology**: Computer Science and Engineering   
 
 ### **Fields of Interest**  
 💻 **Cybersecurity**: Resilient systems and secure architecture  
 🔗 **Blockchain**: Exploring smart contracts and decentralized tech  
 🛠️ **System Design**: Robust and scalable application design  
-🧰 **DevOps**: Streamlining CI/CD pipelines for better collaboration  
+
 
 ### **Currently Learning**  
-📜 Smart Contracts with Solidity  
+📜 BLockchain Smart Contracts  Development
 🚀 Docker automation and advanced container orchestration  
 🧠 Enhancing application reliability through advanced TDD  
 
@@ -37,7 +37,7 @@ Name: Muhammed Irfan CPV
 
 ## **Special Focus 🔍**  
 - **Languages**:  | 🐍 Python | ☕ Java  
-- **Frameworks**: Swing, Maven, Axum  
+- **Frameworks**: Maven, Axum  
 - **Backend Development**: Secure and efficient data handling  
 - **Tools**: Docker, Git, Eclipse  
 
@@ -45,7 +45,7 @@ Name: Muhammed Irfan CPV
 
 ## **Technologies & Tools 🔧**  
 **Favorite Tools**:  
-- Docker | Git | Swing | Maven | SQL   
+-  Git | SQL | Maven | Docker |
 **Current Stack Weapons**:  
 - Java 17 | Rust | Python | Kubernetes  
 
