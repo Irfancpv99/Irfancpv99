@@ -51,6 +51,15 @@ Name: Muhammed Irfan CPV
 
 ---
 
+# Project Name
+
+## Screenshot:
+![Project Screenshot](images/screenshot.jpg)
+
+## Watch the Demo:
+[![Watch the Demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+
+
 ##Some Tools I Have Used and Learned, I'm still learning though
 
 ✨ **Let's connect and build the future, one resilient system at a time!**  
