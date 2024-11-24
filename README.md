@@ -1,4 +1,4 @@
-# **Hi there! 👋 [Your Name] here...**  
+# **Hi there! 👋 Irfan CPV here...**  
 
 📐 **Current Focus**:  
 Crafting resilient and secure cyber-physical systems while diving deep into Java-based projects using TDD, Swing, and modern development tools like Docker and Git. Exploring innovative ways to enhance software reliability and functionality.  
@@ -9,7 +9,7 @@ Crafting resilient and secure cyber-physical systems while diving deep into Java
 🤔 **Seeking Wisdom**:  
 🧭📚 Always eager to learn from seasoned professionals and explore innovative solutions in secure system design, blockchain, and DevOps. Together, we can make tech better and smarter!  
 
-📫 **Reach out to me at**: [Your Email]  
+📫 **Reach out to me at**: irfancpv99@gmail.com
 Even amidst the busiest projects, I’ll find your message and connect within a week! Let’s build something amazing together.  
 
 ---
