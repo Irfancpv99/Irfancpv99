@@ -29,9 +29,9 @@ Name: Muhammed Irfan CPV
 
 
 ### **Currently Learning**  
-📜 BLockchain Smart Contracts  Development
-🚀 Docker automation and advanced container orchestration  
-🧠 Enhancing application reliability through advanced TDD  
+- 📜 BLockchain Smart Contracts  Development
+- 🚀 Docker automation and advanced container orchestration  
+- 🧠 Enhancing application reliability through advanced TDD  
 
 ---
 
