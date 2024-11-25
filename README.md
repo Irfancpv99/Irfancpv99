@@ -1,4 +1,4 @@
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4176616e41766926686964653d6973737565732c636f6e74726962732672616e6b5f69636f6e3d70657263656e74696c65267468656d653d6769746875625f6461726b](https://github.com/user-attachments/assets/d97affc1-82ef-4e22-a916-e5e7d7581b85)# **Hi there! 👋 Irfan CPV here...**  
+# **Hi there! 👋 Irfan CPV here...**  
 
 📐 **Current Focus**:  
 Crafting resilient and secure cyber-physical systems while diving deep into Java-based projects using TDD, Swing, and modern development tools like Docker and Git. Exploring innovative ways to enhance software reliability and functionality.  
