@@ -45,7 +45,9 @@ Name: Muhammed Irfan CPV
 
 ## **Technologies & Tools 🔧**  
 **Favorite Tools**:  
--  Git | SQL | PYTHON | DOCKER | BLOCKCHAIN
+- ![image](https://github.com/user-attachments/assets/444fcc15-ed2d-4878-91fe-d96f6895c79f) ![image](https://github.com/user-attachments/assets/dae41fe1-d5b2-4eae-bde3-ce338bc3bcf0)
+
+  | SQL | PYTHON | DOCKER | BLOCKCHAIN
 ## **Current Stack Weapons**:  
 - Java 17 | Rust | Python |  
 
@@ -62,4 +64,6 @@ Name: Muhammed Irfan CPV
 
 ##Some Tools I Have Used and Learned, I'm still learning though
 
-✨ **Let's connect and build the future, one resilient system at a time!**  
+✨ **Let's connect and build the future, one resilient system at a time!** 
+
+
