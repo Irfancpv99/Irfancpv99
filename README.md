@@ -18,7 +18,7 @@ Even amidst the busiest projects, I’ll find your message and connect within a 
 
 Name: Muhammed Irfan CPV 
 
-# **Education**  
+#### **Education**  
 - 🎓 **Master's in Informatics**: Resilient and Secure Cyber-Physical Systems   
 - 🎓 **Bachelor of Technology**: Computer Science and Engineering   
 
