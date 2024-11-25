@@ -46,7 +46,7 @@ Name: Muhammed Irfan CPV
 ## **Technologies & Tools 🔧**  
 **Favorite Tools**:  
 -  Git | SQL | PYTHON | DOCKER | BLOCKCHAIN
-**Current Stack Weapons**:  
+## **Current Stack Weapons**:  
 - Java 17 | Rust | Python |  
 
 ---
