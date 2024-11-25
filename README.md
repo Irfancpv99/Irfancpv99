@@ -47,7 +47,7 @@ Name: Muhammed Irfan CPV
 ## Tools I Have Used and Learned, I'm still learning
 
 <img src="https://github.com/user-attachments/assets/69ec6405-a5b6-48e7-8c2f-acd90ec6f79f" alt="Sample Image 0" width="50" hieght="50"> 
-<img src="(https://github.com/user-attachments/assets/ab5bdfbd-6910-40af-9c72-4ea3eca5ae5c)" alt="Sample Image 1" width="50" hieght="50">
+<img src="https://github.com/user-attachments/assets/ab5bdfbd-6910-40af-9c72-4ea3eca5ae5c" alt="Sample Image 1" width="50" hieght="50">
 <img src="https://github.com/user-attachments/assets/6c3b1b5e-474d-4818-ab7f-3ae4a3b1c0ec" alt="Sample Image 2" width="50" hieght="50">
 <img src="https://github.com/user-attachments/assets/fcb8268f-8836-4072-8236-750d76df5218" alt="Sample Image 3" width="50" hieght="50">
 <img src="https://github.com/user-attachments/assets/45d1cc0e-8d02-4f5d-b694-24624274f31e" alt="Sample Image 4" width="50" hieght="50">
